@@ -12,7 +12,7 @@ The following readings are required for this course. Please refer to the calenda
 
 Alford, William. "The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China." Center for Research on Economic Development and Policy Reform. Working Paper no. 59. Stanford University, August 2000.
 
-{{% resource_link "cfd3b024-bf67-42a6-ab2e-8fa37fbea52e" "https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-ch" %}}
+[https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-ch](https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-china)
 
 Angang, Hu. "Public Exposure of Economic Losses Resulting from Corruption." *China and World Economy* 10, 4 (July-Aug. 2002): 44-49.
 
@@ -27,10 +27,10 @@ Carruthers, Bruce G., and Terence C. Halliday. *Rescuing Business: The Making of
 Chu, Yun-han, and Jih-wen Lin. "Political Development in 20th-Century Taiwan: State-Building, Regime Transformation and the Construction of National Identity." *The China Quarterly* 165, (March 2001).
 
 Ding, X.L. "The Quasi-Criminalization of a Business Sector in China." *Crime, Law & Social Change* 35, 3 (April 2001): 177-202.   
-{{% resource_link "5d69f781-214d-4aee-aab1-14b413e21c2a" "http://link.springer.com/article/10.1023%2FA%3A1011294000877?LI=true" %}}
+[http://link.springer.com/article/10.1023%2FA%3A1011294000877?LI=true](http://link.springer.com/article/10.1023%2FA%3A1011294000877?LI=true)
 
 Dittmer, Lowell and Yu-shan Wu. "The Modernization of Factionalism in Chinese Politics." *World Politics* 47, 4 (July 1995): 467-94.   
-{{% resource_link "21eeff7b-0578-4c92-8db9-aa4bc0477a26" "http://www.jstor.org/cgi-bin/jstor/logon?T=1&S1=8dd55340.10584427960&config=jstor" %}}
+[http://www.jstor.org/cgi-bin/jstor/logon?T=1&S1=8dd55340.10584427960&config=jstor](http://www.jstor.org/pss/2950699)
 
 Franz, Schurman. *Ideology and Organization in Communist China.* Berkeley: Univ. of California Press, 1968, Chapters 1-3.
 
@@ -40,18 +40,18 @@ Hays Gries, Peter. "Tears of Rage: Chinese Nationalism and the Belgrade Embassy 
 
 Huang, Yasheng. *Selling China.* New York: Cambridge Univ. Press, forthcoming.
 
-Kornai, Janos. "{{% resource_link "7cce6181-a0b2-4ede-8d6e-5e4b2f7e1bb2" "What the Change of System from Socialism to Capitalism Does and Does Not Mean" %}}." *Journal of Economic Perspectives* 14, 1 (Winter 2000): 27-42.
+Kornai, Janos. "[What the Change of System from Socialism to Capitalism Does and Does Not Mean](http://www.jstor.org/pss/2647049)." *Journal of Economic Perspectives* 14, 1 (Winter 2000): 27-42.
 
 Lardy, Nicholas R. *China's Unfinished Economic Revolution.* Washington: Brookings, 1998, pp. 1-20.
 
-\------. "The Challenge of Bank Restructuring in China." *Bank for International Settlements Policy Papers,* No. 7, (1999): 17-39. ({{% resource_link "cbcaf1d6-2a4c-47c1-86ba-c598e2d85c02" "PDF" %}})
+\------. "The Challenge of Bank Restructuring in China." *Bank for International Settlements Policy Papers,* No. 7, (1999): 17-39. ([PDF](http://www.bis.org/publ/plcy07a.pdf))
 
 MacFarquhar, Roderick. "The Coming of the Cataclysm 1961-1966." In *The Origins of the Cultural Revolution*.  Vol. 3. Oxford: Oxford Univ. Press, 1997.
 
 \------. "Demolition Man." In *New York Review of Books.* March 27, 1997. 
 
 Montinola, Gabriella, Yingyi Qian, and Barry Weingast. "Federalism, Chinese Style: The Political Basis for Economic Success." *World Politics* 48, 1 (1996): 50-81.   
-{{% resource_link "2b5e16fb-35b7-4a72-8355-6fdcd0e9d470" "http://muse.jhu.edu/journals/world_politics/toc/wp48.1.html" %}}
+[http://muse.jhu.edu/journals/world_politics/toc/wp48.1.html](http://muse.jhu.edu/journals/world_politics/toc/wp48.1.html)
 
 Maxim, Boycko, Andrei Shleifer, and Robert Vishny. *Privatizing Russia.* Cambridge: MIT Press, 1995, Chap. 2 (pp. 19-46).
 
@@ -67,7 +67,7 @@ Prasenjit, Duara. *Culture, Power, and the State: Rural North China,* *1900-1942
 
 Perry, Elizabeth J., and Li Xun. *Proletarian Power: Shanghai in the Cultural Revolution.* Boulder: Westview, 1997.
 
-Peerenboom, Randall. "{{% resource_link "25b7ffc9-bf0e-4b4b-9821-d4f67f4c9229" "Seek Truth From Facts: An Empirical Study of Enforcement of Arbitral Awards in the PRC" %}}." 2001.
+Peerenboom, Randall. "[Seek Truth From Facts: An Empirical Study of Enforcement of Arbitral Awards in the PRC](http://dx.doi.org/10.2139/ssrn.344900)." 2001.
 
 Rose-Ackerman, Susan. *Corruption and Government.* New York: Cambridge Univ. Press, 1999, pp. 1-25. 
 
