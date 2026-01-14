@@ -46,7 +46,7 @@ State Building: Then and Now
 {{< tdopen >}}
 
 
-Ding, X.L. "{{% resource_link "ebb9e08c-d199-4489-bc75-be0a71aca66a" "The Quasi-Criminalization of a Business Sector in China" %}}." _Crime, Law & Social Change_ 35, 3 (April 2001): 177-202.
+Ding, X.L. "[The Quasi-Criminalization of a Business Sector in China](http://link.springer.com/journal/10611)." _Crime, Law & Social Change_ 35, 3 (April 2001): 177-202.
 
 Prasenjit, Duara. _Culture, Power, and the State: Rural North China_, 1900-1942. Stanford: Stanford Univ. Press, 1988.
 
@@ -68,7 +68,7 @@ System Building: Ideology and Organization
 
 Franz, Schurman. _Ideology and Organization in Communist China_. Berkeley: Univ. of California Press, 1968, Chapters 1-3.
 
-Kornai, Janos. "{{% resource_link "7cce6181-a0b2-4ede-8d6e-5e4b2f7e1bb2" "What the Change of System from Socialism to Capitalism Does and Does Not Mean" %}}." _Journal of Economic Perspectives_ 14, 1 (Winter 2000): 27-42.
+Kornai, Janos. "[What the Change of System from Socialism to Capitalism Does and Does Not Mean](http://www.jstor.org/pss/2647049)." _Journal of Economic Perspectives_ 14, 1 (Winter 2000): 27-42.
 
 Xiaoying, Wang. "The Post-Communist Personality." _The China Journal_, (January 2002): 1-18.
 
@@ -86,7 +86,7 @@ Factionalism, Elites, and Power
 {{< tdopen >}}
 
 
-Dittmer, Lowell and Yu-shan Wu. "The Modernization of Factionalism in Chinese Politics." _World Politics_ 47, 4 (July 1995): 467-94. {{% resource_link "2ecbb238-6c53-4c3b-bf15-bc8a0f202be2" "http://www.jstor.org/" %}}
+Dittmer, Lowell and Yu-shan Wu. "The Modernization of Factionalism in Chinese Politics." _World Politics_ 47, 4 (July 1995): 467-94. [http://www.jstor.org/](http://www.jstor.org/)
 
 MacFarquhar, Roderick. "The Coming of the Cataclysm 1961-1966." _In The Origins of the Cultural Revolution_. Vol. 3. Oxford: Oxford Univ. Press, 1997.
 
@@ -146,7 +146,7 @@ State and Matkets
 {{< tdopen >}}
 
 
-Montinola, Gabriella, Yingyi Qian, and Barry Weingast. "Federalism, Chinese Style: The Political Basis for Economic Success." _World Politics_ 48, 1 (1996): 50-81. {{% resource_link "2b5e16fb-35b7-4a72-8355-6fdcd0e9d470" "http://muse.jhu.edu/journals/world\_politics/toc/wp48.1.html" %}}
+Montinola, Gabriella, Yingyi Qian, and Barry Weingast. "Federalism, Chinese Style: The Political Basis for Economic Success." _World Politics_ 48, 1 (1996): 50-81. [http://muse.jhu.edu/journals/world\_politics/toc/wp48.1.html](http://muse.jhu.edu/journals/world_politics/toc/wp48.1.html)
 
 Maxim, Boycko, Andrei Shleifer, and Robert Vishny. _Privatizing Russia_. Cambridge: MIT Press, 1995, Chap. 2 (pp. 19-46).
 
@@ -170,7 +170,7 @@ The Politics Of Finance and Financial Reform
 
 Lardy, Nicholas R. _China's Unfinished Economic Revolution_. Washington: Brookings, 1998, pp. 1-20.
 
-\------. "The Challenge of Bank Restructuring in China." _Bank for International Settlements Policy Papers_, No. 7, (1999): 17-39. ({{% resource_link "cbcaf1d6-2a4c-47c1-86ba-c598e2d85c02" "PDF" %}})
+\------. "The Challenge of Bank Restructuring in China." _Bank for International Settlements Policy Papers_, No. 7, (1999): 17-39. ([PDF](http://www.bis.org/publ/plcy07a.pdf))
 
 Tsai, Kellee. _Back-Alley Banking: Private Entrepreneurs in China_. Ithaca: Cornell Univ. Press, 2002.
 

@@ -14,6 +14,6 @@ Many readings are available online for MIT students only in the library's E-rese
 
 Marc J. Blecher, Hegemony and Workers' Politics in China
 
-{{% resource_link "e2587837-af27-464a-8116-4701ef45bef4" "Yongshun Cai, \"The Resistance of Chinese Laid-Off Workers in the Reform Period" %}}
+[Yongshun Cai, "The Resistance of Chinese Laid-Off Workers in the Reform Period](http://journals.cambridge.org/action/login)
 
-{{% resource_link "6135e437-0e6a-45e5-833b-7d3827b3409f" "Kluwer Online" %}}
+[Kluwer Online](http://www.kluwerlawonline.com)
